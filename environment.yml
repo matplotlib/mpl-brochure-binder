@@ -1,0 +1,11 @@
+name: mpl_brochure_binder
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - jupytext
+  - jupyterlab
+  - python
+  - numpy
+  - matplotlib
+  - ipympl
