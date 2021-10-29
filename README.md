@@ -2,4 +2,4 @@
 
 See binder at https://mybinder.org/v2/gh/matplotlib/mpl-brochure-binder/main?labpath=MatplotlibExample.ipynb
 
-Noite that we use jupytext to synchronize with a markdown file. 
+Note that we use jupytext to synchronize with a markdown file. 
