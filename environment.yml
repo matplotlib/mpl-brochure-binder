@@ -7,5 +7,5 @@ dependencies:
   - jupyterlab
   - python
   - numpy
-  - matplotlib
+  - matplotlib-base
   - ipympl
