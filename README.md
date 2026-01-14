@@ -1,5 +1,19 @@
 # mpl-brochure-binder
 
-See binder at https://mybinder.org/v2/gh/matplotlib/mpl-brochure-binder/main?labpath=MatplotlibExample.ipynb
+Interactive Matplotlib visualization examples.
 
-Note that we use jupytext to synchronize with a markdown file; if we edit the markdown file, be sure to run jupyterlab with jupytext enabled to get the actual notebook synchronized before committing. (Note not 100% sure this works across different installs, but lets try it and see). 
+## JupyterLite
+
+Try it in your browser (no installation required):
+
+[![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://matplotlib.github.io/mpl-brochure-binder/lab/index.html?path=MatplotlibExample.ipynb)
+
+## Binder
+
+Launch with Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matplotlib/mpl-brochure-binder/main?labpath=MatplotlibExample.ipynb)
+
+## Development
+
+We use jupytext to synchronize notebooks with markdown files. If editing the markdown file, be sure to run JupyterLab with jupytext enabled to synchronize the notebook before committing.
