@@ -1,11 +1,9 @@
-name: mpl_brochure_binder
+name: xeus-kernel
 channels:
-  - conda-forge
-  - default
+  - https://repo.prefix.dev/emscripten-forge-dev
+  - https://repo.prefix.dev/conda-forge
 dependencies:
-  - jupytext
-  - jupyterlab
-  - python
+  - xeus-python
   - numpy
-  - matplotlib-base
+  - matplotlib
   - ipympl
