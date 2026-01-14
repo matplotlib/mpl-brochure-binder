@@ -6,7 +6,7 @@ Interactive Matplotlib visualization examples.
 
 Try it in your browser (no installation required):
 
-[![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jtpio.github.io/mpl-brochure-binder/lab/index.html?path=MatplotlibExample.ipynb)
+[![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://matplotlib.github.io/mpl-brochure-binder/lab/index.html?path=MatplotlibExample.ipynb)
 
 ## Binder
 
