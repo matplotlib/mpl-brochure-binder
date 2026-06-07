@@ -5,7 +5,7 @@ channels:
 dependencies:
   - jupytext
   - jupyterlab
-  - python
+  - python=3.11
   - numpy
   - matplotlib-base
   - ipympl
